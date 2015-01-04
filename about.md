@@ -1,11 +1,22 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-2/
+author:
+  display_name: sebastian
+  login: sebastian
+  email: nord@tanteuschi.de
+  url: ''
+author_login: sebastian
+author_email: nord@tanteuschi.de
+wordpress_id: 5
+wordpress_url: http://www.videntity.de/about-2/
+date: '2007-05-20 15:57:46 +0200'
+date_gmt: '2007-05-20 13:57:46 +0200'
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+On this Blog, Tobi and Sebastian post related stuff to thier final thesis.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+We looking forward to your comments! Give feedback at feedback@videntity.de
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Stay tuned!
