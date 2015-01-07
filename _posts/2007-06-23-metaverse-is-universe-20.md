@@ -6,10 +6,10 @@ title: Metaverse is Universe 2.0
 author:
   display_name: sebastian
   login: sebastian
-  email: nord@tanteuschi.de
+  email:
   url: ''
 author_login: sebastian
-author_email: nord@tanteuschi.de
+author_email:
 wordpress_id: 16
 wordpress_url: http://www.videntity.de/2007/06/23/metaverse-is-universe-20/
 date: '2007-06-23 22:10:03 +0200'
@@ -19,4 +19,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>My beloved magazine <em><a href="http://www.technologyreview.com">Technology Review</a> republishes <a href="http://www.technologyreview.com/Infotech/18911/">a printed article about the mixup of second life and google earth</a>.&nbsp; It makes me think about what will be in the future. Can we trust the identities in second life? </em></p>
+My beloved magazine <a href="http://www.technologyreview.com">Technology Review</a> republishes <a href="http://www.technologyreview.com/Infotech/18911/">a printed article about the mixup of second life and google earth</a>. It makes me think about what will be in the future. *Can we trust the identities in second life?*

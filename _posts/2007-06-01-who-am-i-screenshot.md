@@ -20,5 +20,6 @@ categories:
 tags: []
 comments: []
 ---
-<p>Latest Screenshot of <strong>WhoAmI</strong>:<br />
-<a href='http://www.videntity.de/wp-content/blogs.dir/2/files/2007/06/whoami.png' title='Who Am I Screenshot'><img src='http://www.videntity.de/wp-content/blogs.dir/2/files/2007/06/whoami.png' alt='Who Am I Screenshot' width="400" /></a></p>
+Latest Screenshot of **WhoAmI**:
+
+<img src='/images/whoami.png' alt='Who Am I Screenshot' width="400" />

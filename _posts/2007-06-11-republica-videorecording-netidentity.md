@@ -20,5 +20,6 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://netzpolitik.org/2007/republica-dokumentation-identitaet-im-netz">netzpolitik.org</a> just published the <a href="http://www.re-publica.de">re:publica</a> video  of my supervisor <a href="http://www.computationalculture.de/2007/04/16/digital-identity-republica-2007-talk/">Stephan Baumann</a> and <a href="http://bendrath.blogspot.com">Ralf Bendrath</a> talking about net-identity - 'Identit&auml;t im Netz'</p>
-<p><em>..sorry, german only..</em></p>
+<a href="http://netzpolitik.org/2007/republica-dokumentation-identitaet-im-netz">netzpolitik.org</a> just published the <a href="http://www.re-publica.de">re:publica</a> video of my supervisor <a href="http://www.computationalculture.de/2007/04/16/digital-identity-republica-2007-talk/">Stephan Baumann</a> and <a href="http://bendrath.blogspot.com">Ralf Bendrath</a> talking about net-identity - 'Identit&auml;t im Netz'
+
+*..sorry, german only..*

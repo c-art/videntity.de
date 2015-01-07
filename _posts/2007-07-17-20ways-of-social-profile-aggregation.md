@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 20ways of social profile aggregation
+title: 20 ways of social profile aggregation
 author:
   display_name: tobi
   login: tobi
@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Mashable.com just published a great overview of current social network aggregators. <a href="http://mashable.com/2007/07/17/social-network-aggregators/">Give it a try!</a></p>
+Mashable.com just published a great overview of current social network aggregators. <a href="http://mashable.com/2007/07/17/social-network-aggregators/">Give it a try!</a>

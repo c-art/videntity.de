@@ -20,6 +20,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Hey, check this out! I just found this random <a href="http://www.slifeshare.com/user/zer0one">sLife profile page</a>. The guy (or somelse) watched (well, not so) strange movies, <a href="http://www.slifelabs.com/slife/">sLife</a> tracked and shared them online. Now, everyone can see which flicks he watched - nice!. His excuse: <em>pay no attention to the hokey pokey videos there. It wasnt me... I swear!</em><br />
-Well done! ;-)</p>
-<p><a href='http://www.videntity.de/wp-content/blogs.dir/2/files/2007/07/picture-1.png' title='picture-1.png'><img src='http://www.videntity.de/wp-content/blogs.dir/2/files/2007/07/picture-1.png' width="400" alt='picture-1.png' /></a></p>
+Hey, check this out! I just found this random <a href="http://www.slifeshare.com/user/zer0one">sLife profile page</a>. The guy (or somelse) watched (well, not so) strange movies, <a href="http://www.slifelabs.com/slife/">sLife</a> tracked and shared them online. Now, everyone can see which flicks he watched - nice!. His excuse: *pay no attention to the hokey pokey videos there. It wasnt me... I swear!*
+
+Well done! ;-)
+
+<img src='/images/picture-1.png' width="400" alt='picture-1.png' />

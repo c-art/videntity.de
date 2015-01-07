@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Just checked in a massive(!) update of whoami! Completely refactored with full implementation of <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer">REST</a> - AND: of course, OpenID is now fully supported. Thanks to <a href="http://agilewebdevelopment.com/plugins/openidauthentication">David</a> - check it out!</p>
+Just checked in a massive(!) update of whoami! Completely refactored with full implementation of <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer">REST</a> - AND: of course, OpenID is now fully supported. Thanks to <a href="http://agilewebdevelopment.com/plugins/openidauthentication">David</a> - check it out!

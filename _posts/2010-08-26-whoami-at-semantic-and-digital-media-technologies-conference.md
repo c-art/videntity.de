@@ -20,5 +20,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Stephan Baumann presented my WhoAmI Application at &nbsp;<a href="http://samt2008.uni-koblenz.de">Semantic and Digital Media Technologies</a> in Koblenz. See full presentation here:</p>
-<p>http://videolectures.net/samt08_baumann_wai/</p>
+Stephan Baumann presented my WhoAmI Application at [Semantic and Digital Media Technologies](http://samt2008.uni-koblenz.de) in Koblenz.
+
+
+See full presentation here:
+[http://videolectures.net/samt08_baumann_wai](http://videolectures.net/samt08_baumann_wai)

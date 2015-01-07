@@ -5,10 +5,10 @@ permalink: /about-2/
 author:
   display_name: sebastian
   login: sebastian
-  email: nord@tanteuschi.de
+  email:
   url: ''
 author_login: sebastian
-author_email: nord@tanteuschi.de
+author_email:
 wordpress_id: 5
 wordpress_url: http://www.videntity.de/about-2/
 date: '2007-05-20 15:57:46 +0200'
