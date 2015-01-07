@@ -20,4 +20,4 @@ categories:
 tags: []
 comments: []
 ---
-<p>Finally we made it to be online! Stay tuned</p>
+Finally we made it to be online! Stay tuned
