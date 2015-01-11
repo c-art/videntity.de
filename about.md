@@ -13,6 +13,7 @@ wordpress_id: 5
 wordpress_url: http://www.videntity.de/about-2/
 date: '2007-05-20 15:57:46 +0200'
 date_gmt: '2007-05-20 13:57:46 +0200'
+menu: 2
 ---
 
 On this Blog, Tobi and Sebastian post related stuff to thier final thesis.
