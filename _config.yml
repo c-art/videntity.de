@@ -3,8 +3,8 @@ title: vIdentity
 email: feedback@videntity.de
 description: >
   because your identity matters
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vIdentity.de" # the base hostname & protocol for your site
+baseurl: "/videntity.de/" # the subpath of your site, e.g. /blog/
+url: "http://c-art.github.io" # the base hostname & protocol for your site
 
 # Outputting
 permalink: /:year/:month/:day/:title/index.html
